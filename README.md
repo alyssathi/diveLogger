@@ -1,46 +1,39 @@
-# Getting Started with Create React App
+# DiveLogger 2.0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An app to make logging your dives easier! Check out the live version here: Coming Soon😁
 
-## Available Scripts
+## Before Development
 
-In the project directory, you can run:
+### Initial Thoughts
 
-### `yarn start`
+I'm excited to start this project- it'll be interesting to see my improvements from DiveLog 1.0. I've planned much better this time around and took the time to learn Typescript concepts and some more Firebase concepts. I'm hoping this will make this project go a lot smoother than my [ReactChat](https://github.com/alyssathi/reactChat) app.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Goals
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+I want to apply the concepts of two relatively new technologies to me (Typescript & Firestore) and learn through experience the best way to use them. I also want to learn from my ReactChat app and organize my app just a little bit better this time around.
 
-### `yarn test`
+### Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- React: of course, it's the best
+- Typescript: only my second time using it.
+- Firestore: also only my second time using it.
+- Component/UI Library: still working on it... MUI seems a bit heavy and hard to customize. Thinking about Chakra, Base or Blueprint.
 
-### `yarn build`
+### Planned Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Landing Page
+- Email & Password Authentication
+- Ability to add dive buddies to your account
+- Search your own dives by certain constraints
+- Add photos to Firestore
+- Some form autofill options
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### During Development
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### After Development
 
-### `yarn eject`
+## What I Learned
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## How will I apply this experience to my next project?
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Final Thoughts
