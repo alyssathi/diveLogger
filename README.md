@@ -17,7 +17,7 @@ I want to apply the concepts of two relatively new technologies to me (Typescrip
 - React: of course, it's the best.
 - Typescript: only my second time using it.
 - Firestore: also only my second time using it.
-- Chakra UI: lighter weight than MUI and easier to customize it seems.
+- Material UI: practice more with customization
 
 ### Planned Features
 
