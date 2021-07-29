@@ -1,10 +1,11 @@
 import React from "react";
+import { ChakraProvider } from "@chakra-ui/react";
 
 function App() {
   return (
-    <div className="App">
+    <ChakraProvider>
       <div>
-        Icons made by{" "}
+        Favicon made by{" "}
         <a href="https://www.freepik.com" title="Freepik">
           Freepik
         </a>{" "}
@@ -13,7 +14,7 @@ function App() {
           www.flaticon.com
         </a>
       </div>
-    </div>
+    </ChakraProvider>
   );
 }
 

@@ -14,10 +14,10 @@ I want to apply the concepts of two relatively new technologies to me (Typescrip
 
 ### Tech Stack
 
-- React: of course, it's the best
+- React: of course, it's the best.
 - Typescript: only my second time using it.
 - Firestore: also only my second time using it.
-- Component/UI Library: still working on it... MUI seems a bit heavy and hard to customize. Thinking about Chakra, Base or Blueprint.
+- Chakra UI: lighter weight than MUI and easier to customize it seems.
 
 ### Planned Features
 
@@ -28,12 +28,12 @@ I want to apply the concepts of two relatively new technologies to me (Typescrip
 - Add photos to Firestore
 - Some form autofill options
 
-### During Development
+## During Development
 
-### After Development
+## After Development
 
-## What I Learned
+### What I Learned
 
-## How will I apply this experience to my next project?
+### How will I apply this experience to my next project?
 
-## Final Thoughts
+### Final Thoughts
