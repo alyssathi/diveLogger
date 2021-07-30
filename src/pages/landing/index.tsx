@@ -1,10 +1,10 @@
 import React from "react";
-import { Layout } from "../../components";
+import { Layout, Hero } from "../../components";
 
 export function Landing() {
   return (
     <Layout>
-      <div>Hello</div>
+      <Hero />
     </Layout>
   );
 }

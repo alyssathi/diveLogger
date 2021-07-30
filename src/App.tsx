@@ -1,4 +1,5 @@
 import React from "react";
+import "./App.css";
 import { createTheme, ThemeProvider } from "@material-ui/core/styles";
 import { Landing } from "./pages";
 
