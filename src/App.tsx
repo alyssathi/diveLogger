@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import { createTheme, ThemeProvider } from "@material-ui/core/styles";
-import { Landing } from "./pages";
+import { Dashboard, Landing } from "./pages";
 
 const theme = createTheme({
   palette: {
@@ -18,6 +18,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <Landing />
+      <Dashboard />
     </ThemeProvider>
   );
 }

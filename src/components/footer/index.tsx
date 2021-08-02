@@ -8,16 +8,30 @@ export function Footer(): JSX.Element {
     <Box className={css.container}>
       <Typography className={css.text} variant="body2">
         Favicon & Logo made by{" "}
-        <a href="https://www.freepik.com" title="Freepik">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.freepik.com"
+          title="Freepik"
+        >
           Freepik
         </a>{" "}
         from{" "}
-        <a href="https://www.flaticon.com/" title="Flaticon">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.flaticon.com/"
+          title="Flaticon"
+        >
           www.flaticon.com
         </a>
       </Typography>
       <Typography className={css.text} variant="body2">
-        Site made by <a href="https://alyssathi.dev">Alyssa Thi</a> © 2021
+        Site made by{" "}
+        <a target="_blank" rel="noreferrer" href="https://alyssathi.dev">
+          Alyssa Thi
+        </a>{" "}
+        © 2021
       </Typography>
     </Box>
   );

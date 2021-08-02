@@ -11,7 +11,7 @@ export function Hero(): JSX.Element {
       </Box>
       <Box className={css.box}>
         <Typography variant="h2">
-          Logging dives has never been easier...
+          Logging dives has never been easier
         </Typography>
       </Box>
     </Container>
