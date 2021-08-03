@@ -9,5 +9,10 @@ export const useStyles = makeStyles({
   },
   container: {
     width: "40%",
+    postion: "relative",
+  },
+  fab: {
+    postion: "absolute",
+    bottom: "0",
   },
 });
